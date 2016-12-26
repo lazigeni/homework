@@ -3,4 +3,9 @@
 - html
 - css
 - java
-- c#
+- c
+## Желаемые навыки:
+- javascript
+- nodejs
+- react.js
+- nosql db
